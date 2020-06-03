@@ -1,0 +1,6 @@
+/home/cezar/Projects/Server/Server/bin/Debug/Server.exe
+/home/cezar/Projects/Server/Server/bin/Debug/Server.pdb
+/home/cezar/Projects/Server/Server/obj/x86/Debug/Server.csprojAssemblyReference.cache
+/home/cezar/Projects/Server/Server/obj/x86/Debug/Server.csproj.CoreCompileInputs.cache
+/home/cezar/Projects/Server/Server/obj/x86/Debug/Server.exe
+/home/cezar/Projects/Server/Server/obj/x86/Debug/Server.pdb

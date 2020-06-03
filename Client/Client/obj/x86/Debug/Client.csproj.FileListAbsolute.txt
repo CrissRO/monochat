@@ -1,0 +1,6 @@
+/home/cezar/Projects/Client/Client/obj/x86/Debug/Client.csprojAssemblyReference.cache
+/home/cezar/Projects/Client/Client/obj/x86/Debug/Client.csproj.CoreCompileInputs.cache
+/home/cezar/Projects/Client/Client/bin/Debug/Client.exe
+/home/cezar/Projects/Client/Client/bin/Debug/Client.pdb
+/home/cezar/Projects/Client/Client/obj/x86/Debug/Client.exe
+/home/cezar/Projects/Client/Client/obj/x86/Debug/Client.pdb
